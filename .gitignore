@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+#Saved model
+IMDB_review_model/
+.idea/
